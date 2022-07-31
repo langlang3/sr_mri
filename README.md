@@ -35,7 +35,7 @@ the pretrained model can be obtained from this(IQ1W):https://pan.baidu.com/s/146
 ## Citation:
 If you find this work or code is helpful in your research, please cite:   
 
-@inproceedings{liang1visible,
+@inproceedings{lang1visible,
   title={Cross-Modality High-Frequency Transformer for MR Image Super-Resolution},
   author={Fang, Chaowei and Zhang, Dingwen and Wang, Liang and Zhang, Yulun and Cheng, Lechao and Han, Junwei },
   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
