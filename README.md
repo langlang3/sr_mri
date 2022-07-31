@@ -12,8 +12,8 @@ math
 cv2
 
 ## Examples:
-git clone https://github.com/langlang3/mri_sr   
-cd mri_sr  
+git clone https://github.com/langlang3/sr_mri.git   
+cd sr_mri  
 for training:
 python main.py --upscale 4 --batch_size 4 --args.data_train <path of the train data>   --verbose
 for testing:
