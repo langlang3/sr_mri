@@ -1,4 +1,4 @@
-# mri_super_resolution
+# mri_sr
 ## Introduction:
 This is the code of paper named " [Cross-Modality High-Frequency Transformer for
 MR Image Super-Resolution](https://arxiv.org/abs/2203.15314)". In this work, we make an early effort to build a Transformer-based MR image super-resolution framework, with careful designs on exploring valuable domain prior knowledge. Specifically, we consider two-fold domain priors including the high-frequency structure prior and the inter-modality context prior, and establish a novel Transformer architecture, called Cross-modality high-frequency Transformer (Cohf-T), to introduce such priors into super-resolving the low-resolution (LR) MR images. Experiments on two datasets indicate that Cohf-T achieves new state-of-the-art performance.
