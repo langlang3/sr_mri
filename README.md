@@ -30,7 +30,7 @@ The data directory should follow the pattern below:
   |--MRI_volume3.nii.gz   
   |--...   
 
-the pretrained model can be obtained from this():
+the pretrained model can be obtained from this(IQ1W):https://pan.baidu.com/s/146XZ9rldjY2GjJ3lMZ69ZQ 
 
 ## Citation:
 If you find this work or code is helpful in your research, please cite:   
